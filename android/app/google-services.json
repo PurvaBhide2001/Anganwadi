@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587319704784",
+    "project_id": "mazi-anganwadi",
+    "storage_bucket": "mazi-anganwadi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587319704784:android:68b9e810fddb6977d532d5",
+        "android_client_info": {
+          "package_name": "com.maziAnganwadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587319704784-n0te5o2p892n9oafda7lj8u8brhkak3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARTnLdWkAMWpOwsOj7ynwDnS9IUwrGJfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587319704784-n0te5o2p892n9oafda7lj8u8brhkak3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
